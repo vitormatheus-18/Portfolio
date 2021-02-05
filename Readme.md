@@ -1,4 +1,5 @@
-#	Portfólio ![](C:\Users\temp\Desktop\Área de Trabalho\LogoVM\desktop-VM.png)
+#	Portfólio!
+ <img src = "Figma/desktop-VM.png">
 
 Repositório criado na curso do HTML + CSS ministrado pelo Marco Bruno.
 
