@@ -1,0 +1,26 @@
+body{
+    font-family: 'Megrim', cursive;
+    max-width: 1900px;
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+.myLogo{
+  
+    width: 60px;
+    height: 60px;
+    left: 14px;
+    top: 9px;
+}
+.header{
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: -1px;
+    top: 0px;
+    background: #9DB4C0;
+    box-shadow: 0px 10px 0px #000000;
+}
+
+
+
