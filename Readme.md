@@ -1,8 +1,7 @@
 #	Portfólio (em construção:construction::construction_worker:)
-
-
-
- <img src = "Figma/desktop-VM.png">
+ 
+ 
+<img src = "Figma/desktop-VM.png">
 
 Repositório criado na curso do HTML + CSS ministrado pelo Marco Bruno.
 
